@@ -14,8 +14,8 @@ global.gopay = '123456789010'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'nactBot'
-global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
-global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/HdIz8ThcJEx6NscwW6SX5A'
+global.web = 'https://chat.whatsapp.com/HdIz8ThcJEx6NscwW6SX5A' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
